@@ -1,0 +1,14 @@
+{
+    "name": "cucumber-playwright-sample",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "cucumber-js"
+    },
+    "dependencies": {
+        "@cucumber/cucumber": "^9.1.2",
+        "chai": "^4.3.7",
+        "playwright": "^1.33.0"
+    }
+}
